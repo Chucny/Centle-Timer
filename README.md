@@ -1,2 +1,1 @@
-# Centle-Timer
-This is a simple speedcubing timer made with JavaScript, HTML and CSS. It counts your mo3, ao5, ao12, ao50 and ao100 such as generating a random state scramble. 
+<!DOCTYPE html><html><head><title>Centle Timer</title></head><h3>Centle Timer</h3><br><br><p>This is a speedcubing timer that counts your average and other stuff. <br> <strong>How to use:</strong><br>Press space. After you release the spacebar, the timer will start. Pressing +, will add +2 penalty. <br><strong>IMPORTANT:</strong>This timer is licensed under Apache License 2.0<br>My Discord: @chucny<br><strong>Copyright &copy; 2025 Chucny</strong></p></html>
